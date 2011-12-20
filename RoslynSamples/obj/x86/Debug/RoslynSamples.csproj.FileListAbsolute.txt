@@ -1,0 +1,5 @@
+c:\users\kapil\documents\visual studio 2010\Projects\RoslynSamples\RoslynSamples\bin\Debug\RoslynSamples.exe
+c:\users\kapil\documents\visual studio 2010\Projects\RoslynSamples\RoslynSamples\bin\Debug\RoslynSamples.pdb
+c:\users\kapil\documents\visual studio 2010\Projects\RoslynSamples\RoslynSamples\obj\x86\Debug\RoslynSamples.csprojResolveAssemblyReference.cache
+c:\users\kapil\documents\visual studio 2010\Projects\RoslynSamples\RoslynSamples\obj\x86\Debug\RoslynSamples.exe
+c:\users\kapil\documents\visual studio 2010\Projects\RoslynSamples\RoslynSamples\obj\x86\Debug\RoslynSamples.pdb
